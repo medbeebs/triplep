@@ -1,11 +1,15 @@
-# WAI - What Am I?
+# TripleP - PPP - PyProject Parser
 
-![PyPI - License](https://img.shields.io/pypi/l/wai?style=for-the-badge)
-![PyPI - Types](https://img.shields.io/pypi/types/wai?style=for-the-badge)
-![PyPI - Version](https://img.shields.io/pypi/v/wai?style=for-the-badge)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/wai?style=for-the-badge)
+![PyPI - License](https://img.shields.io/pypi/l/triplep?style=for-the-badge)
+![PyPI - Types](https://img.shields.io/pypi/types/triplep?style=for-the-badge)
+![PyPI - Version](https://img.shields.io/pypi/v/triplep?style=for-the-badge)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/triplep?style=for-the-badge)
 
-WAI (What Am I?) is a lightweight Python utility that enables effortless access to your project's metadata directly from pyproject.toml at runtime.
+TripleP - PPP - PyProject Parser is a lightweight Python utility that enables effortless access to your project's metadata directly from pyproject.toml at runtime.
+
+## Installation
+
+`pip install triplep`
 
 ## Features
 

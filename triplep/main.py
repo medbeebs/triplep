@@ -25,7 +25,7 @@ class PyProject:
         else:
             if self.verbose:
                 logger.info(
-                    "WAI could not find configuration file %s.",
+                    "TripleP could not find configuration file %s.",
                     self.pyproject_path or "pyproject.toml",
                 )
             yield io.BytesIO(b"")
