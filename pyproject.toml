@@ -1,7 +1,7 @@
 [project]
-name = "wai"
+name = "triplep"
 version = "1.0.0"
-description = "WAI (What Am I?) is a lightweight Python utility that enables effortless access to your project's metadata directly from pyproject.toml at runtime."
+description = "TripleP - PPP - PyProject Parser is a lightweight Python utility that enables effortless access to your project's metadata directly from pyproject.toml at runtime."
 readme = "README.md"
 license = "MIT"
 license-files = ["LICENSE"]
@@ -25,9 +25,9 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/medbeebs/wai"
-Repository = "https://github.com/medbeebs/wai"
-Issues = "https://github.com/medbeebs/wai/issues"
+Homepage = "https://github.com/medbeebs/triplep"
+Repository = "https://github.com/medbeebs/triplep"
+Issues = "https://github.com/medbeebs/triplep/issues"
 
 [dependency-groups]
 dev = ["ruff>=0.14.8"]
