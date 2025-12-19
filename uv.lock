@@ -29,8 +29,8 @@ wheels = [
 ]
 
 [[package]]
-name = "what-am-i"
-version = "1.0.0"
+name = "triplep"
+version = "1.0.1"
 source = { virtual = "." }
 
 [package.dev-dependencies]

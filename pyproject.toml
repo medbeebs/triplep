@@ -1,6 +1,6 @@
 [project]
 name = "triplep"
-version = "1.0.0"
+version = "1.0.1"
 description = "TripleP - PPP - PyProject Parser is a lightweight Python utility that enables effortless access to your project's metadata directly from pyproject.toml at runtime."
 readme = "README.md"
 license = "MIT"
