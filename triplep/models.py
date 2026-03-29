@@ -38,14 +38,14 @@ class Project:
 
     name: str
     version: str
-    description: str | None
+    description: str | None = None
 
-    urls: dict[str, str] | None
+    urls: dict[str, str] | None = None
 
-    readme: str | None
-    license: str | None
-    license_files: str | None
+    readme: str | None = None
+    license: str | None = None
+    license_files: str | None = None
 
-    requires_python: str | None
-    classifiers: list[str] | None
-    dependencies: list[str] | None
+    requires_python: str | None = None
+    classifiers: list[str] | None = None
+    dependencies: list[str] | None = None
