@@ -4,7 +4,7 @@ from .utils import find_pyproject
 
 pyproject = load_pyproject()
 
-__version__ = "1.0.1"
+__version__ = "1.0.3"
 __all__ = [
     "load_pyproject",
     "find_pyproject",
